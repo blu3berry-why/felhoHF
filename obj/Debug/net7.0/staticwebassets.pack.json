@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Matyi\\Desktop\\Bme\\8.felev\\felho\\3HF\\WebSocket_VSQUVG\\wwwroot\\WebSocket_VSQUVG\\cinema.html",
+      "PackagePath": "staticwebassets\\WebSocket_VSQUVG\\cinema.html"
+    },
+    {
+      "Id": "C:\\Users\\Matyi\\Desktop\\Bme\\8.felev\\felho\\3HF\\WebSocket_VSQUVG\\wwwroot\\hello.html",
+      "PackagePath": "staticwebassets\\hello.html"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.WebSocket_VSQUVG.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.WebSocket_VSQUVG.props",
+      "PackagePath": "build\\WebSocket_VSQUVG.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.WebSocket_VSQUVG.props",
+      "PackagePath": "buildMultiTargeting\\WebSocket_VSQUVG.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.WebSocket_VSQUVG.props",
+      "PackagePath": "buildTransitive\\WebSocket_VSQUVG.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

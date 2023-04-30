@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "v1JnA1q0almraIS6aM96GsOEw6FFMd5D1fY88+rSZB8=",
+  "Source": "WebSocket_VSQUVG",
+  "BasePath": "_content/WebSocket_VSQUVG",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebSocket_VSQUVG\\wwwroot",
+      "Source": "WebSocket_VSQUVG",
+      "ContentRoot": "C:\\Users\\Matyi\\Desktop\\Bme\\8.felev\\felho\\3HF\\WebSocket_VSQUVG\\wwwroot\\",
+      "BasePath": "_content/WebSocket_VSQUVG",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Matyi\\Desktop\\Bme\\8.felev\\felho\\3HF\\WebSocket_VSQUVG\\wwwroot\\hello.html",
+      "SourceId": "WebSocket_VSQUVG",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Matyi\\Desktop\\Bme\\8.felev\\felho\\3HF\\WebSocket_VSQUVG\\wwwroot\\",
+      "BasePath": "_content/WebSocket_VSQUVG",
+      "RelativePath": "hello.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\hello.html"
+    },
+    {
+      "Identity": "C:\\Users\\Matyi\\Desktop\\Bme\\8.felev\\felho\\3HF\\WebSocket_VSQUVG\\wwwroot\\WebSocket_VSQUVG\\cinema.html",
+      "SourceId": "WebSocket_VSQUVG",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Matyi\\Desktop\\Bme\\8.felev\\felho\\3HF\\WebSocket_VSQUVG\\wwwroot\\",
+      "BasePath": "_content/WebSocket_VSQUVG",
+      "RelativePath": "WebSocket_VSQUVG/cinema.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\WebSocket_VSQUVG\\cinema.html"
+    }
+  ]
+}
